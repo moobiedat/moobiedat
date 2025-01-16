@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm Mohamad Obiedat!
 
-<!--
-**moobiedat/moobiedat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Software Engineering student** with a passion for creating innovative and efficient solutions. I enjoy exploring new technologies and working on projects that challenge my skills.
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools:
+- Programming Languages: C++ , Java , Dart 
+- Tools: Wordpress , VSCode , Cpanel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning:
+- Flutter
+
+### 📫 How to Reach Me:
+- Email: mohamadnobiedat@gmail.com
